@@ -1,6 +1,6 @@
 ﻿# UI/UX Design and Programming
 
-Needfinding : Coffee Machines in School (Asia Pacific College)
+Needfinding : Vending Coffee Machines in School (Asia Pacific College)
 
 An **observation** about how consumers use the coffee machines in Asia Pacific College.
 #
